@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "uWfcPoFBBj0GcGzw1WpvfcP1kpxTl36tKSzKI4XpKC0=",
+  "Source": "Gyak9",
+  "BasePath": "_content/Gyak9",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Gyak9\\wwwroot",
+      "Source": "Gyak9",
+      "ContentRoot": "C:\\Users\\Zsombi\\source\\repos\\Gyak9\\Gyak9\\wwwroot\\",
+      "BasePath": "_content/Gyak9",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Zsombi\\source\\repos\\Gyak9\\Gyak9\\wwwroot\\index.html",
+      "SourceId": "Gyak9",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zsombi\\source\\repos\\Gyak9\\Gyak9\\wwwroot\\",
+      "BasePath": "_content/Gyak9",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
